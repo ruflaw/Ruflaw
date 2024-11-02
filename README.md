@@ -1,4 +1,4 @@
-![alt text](Banner.png)
+![alt text](GithubBanner.png)
 
 # WELCOME
 
