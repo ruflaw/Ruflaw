@@ -1,1 +1,1 @@
-![alt text](GithubBanner.png)
+![alt text](Banner.png)
