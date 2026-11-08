@@ -1,6 +1,4 @@
-
-
-<h1 align="left">Main Repos — ಠ‿ಠ </h1>
+<h1 align="left">Main Repos 🗃️</h1>
 
 <table align="left">
     <tr>
