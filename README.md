@@ -1,8 +1,8 @@
 
 
-<h1 align="left">Main Repos</h1>
+<h1 align="left">Main Repos — ಠ‿ಠ </h1>
 
-<table align="center">
+<table align="left">
     <tr>
         <td>FFFFFFFFFFFFFFFF</td>
         <td>FFFFFFFFFFFFFFFF</td>
